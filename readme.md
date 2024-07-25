@@ -4,7 +4,7 @@
 # LearnSage: An AI Learning Assistant
 
 LearnSage is a personalized learning platform that provides interactive educational experiences tailored to your unique learning style. Whether you're a student, a professional, or a lifelong learner, LearnSage is here to support your journey.
-And It is alive [here](learnsage.streamlit.app)
+And It is alive [here](learnsage.streamlit.app). Though some feacture on streamlit will refuse but run locally on your machine like interacting with youtube.
 #### It may not be alive sometimes since i am using my own api and they are paid for and i cant manage all the costs. 
 
 ## Features
@@ -48,7 +48,7 @@ To run LearnSage locally, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Osen761/LearningSage-main.git
+   git clone https://github.com/Osen761/LearningSage.git
    cd learningsage
    ```
 
