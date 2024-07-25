@@ -48,7 +48,7 @@ To run LearnSage locally, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Osen761/LearningSage.git
+   git clone https://github.com/Osen761/LearningSage-main.git
    cd learningsage
    ```
 
